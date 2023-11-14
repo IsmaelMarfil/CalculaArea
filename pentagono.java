@@ -1,7 +1,7 @@
 public class pentagono {
     double apotema;
     double lado;
-    public pentagono(double apotema, double lado) {
+    public pentagono(double apotema, double lado){
         this.apotema = apotema;
         this.lado = lado;
     }
