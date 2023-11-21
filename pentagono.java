@@ -1,3 +1,4 @@
+//Hecho por Ismael 14/11
 public class pentagono {
     double apotema;
     double lado;

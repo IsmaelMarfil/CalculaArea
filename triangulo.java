@@ -1,3 +1,4 @@
+//Hecho por Ismael 14/11
 public class triangulo{
     private double base;
     private double altura;

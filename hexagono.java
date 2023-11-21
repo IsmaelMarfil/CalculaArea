@@ -1,3 +1,4 @@
+//Hecho por Ismael 14/11
 public class hexagono {
     double lado;
     double apotema;
